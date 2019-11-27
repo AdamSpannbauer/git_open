@@ -27,7 +27,7 @@ git_open(){
     # If no remote found, exit
     if [ -z "$remote" ]; then
         echo "ERROR: Not a git repo, or no remote url set"
-        exit 1
+        return
     fi
 
     # Replace ssh style remote origin with https
