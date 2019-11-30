@@ -3,9 +3,7 @@
 A small utility function to open GitHub repos in a browser from the OSX terminal.
 
 <p align='center'>
- <kbd>
   <img width='80%' src='readme/git_open_demo.gif'>
- </kbd>
 </p>
 
 ### Disclaimer
