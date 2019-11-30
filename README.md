@@ -2,6 +2,12 @@
 
 A small utility function to open GitHub repos in a browser from the OSX terminal.
 
+<p align='center'>
+ <kbd>
+  <img width='80%' src='readme/git_open_demo.gif'>
+ </kbd>
+</p>
+
 ### Disclaimer
 
 I'm very far from an experienced bash developer.  This is likely not follwing best practices and is not designed with portability in mind.
